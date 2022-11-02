@@ -172,3 +172,22 @@ Setting description
 Adding default .gitignore
 Syncing /volume1/SOLDERED products/Soldered products/Senzori-blue/Simple light sensor board with easyC to Simple-light-sensor-board-with-easyC-hardware-design
 Reinitialized existing Git repository in /volume1/SOLDERED products/Soldered products/Senzori-blue/Joystick 2-axis with pushbutton breakout/.git/
+On branch main
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	modified:   log.txt
+
+[main 1d21c77] Updating open source files.
+ 1 file changed, 19 insertions(+)
+https://github.com/SolderedElectronics/Joystick-2-axis-with-pushbutton-breakout-hardware-design.git
+/volume1/SOLDERED products/Soldered products/Senzori-blue/ADC 16-bit ADS1115 4-channel with PGA breakout/OUTPUTS/V1.1.1: missing files in OUTPUTS
+ - Wrong number of html 2
+/volume1/SOLDERED products/Soldered products/Senzori-blue/ADC 12-bit ADS1015 4-channel with PGA breakout/OUTPUTS/V1.1.1: missing files in OUTPUTS
+ - Wrong number of pdfs 2
+/volume1/SOLDERED products/Soldered products/Senzori-blue/Simple light sensor board with easyC/OUTPUTS/V1.1.2: all files are present, commiting...
+Simple-light-sensor-board-with-easyC-hardware-design is a repo
+Making gh repo
+Setting description
+Adding default .gitignore
+Syncing /volume1/SOLDERED products/Soldered products/Senzori-blue/Simple light sensor board with easyC to Simple-light-sensor-board-with-easyC-hardware-design
+Reinitialized existing Git repository in /volume1/SOLDERED products/Soldered products/Senzori-blue/Joystick 2-axis with pushbutton breakout/.git/
