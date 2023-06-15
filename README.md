@@ -1,10 +1,12 @@
-## --- Product name --- Hardware design
+## Joystick 2-axis with pushbutton breakout Hardware design
 
 | ![Product name](https://upload.wikimedia.org/wikipedia/commons/8/8f/Example_image.svg) |
 | :----------------------------------------------------------: |
-|      [--- product name ----](https://www.solde.red/SKU)      |
+|      [Buy Joystick 2-axis with pushbutton breakout](https://www.solde.red/333089)      |
 
------- product description ------
+Joystick module is well known to all – it is identical to the one found in the PlayStation2 joystick. Whether you are making a game with a microcontroller or want more freedom while navigating a joystick module will come handy.
+
+It reads X and Y position of the joystick knob (used for controlling) and whether the joystick is being pressed down. X and Y values are shown in the form of analog values while reading off if the joystick is pressed or not is shown in the form of digital value (HIGH/LOW; it has pull-up resistor).
 
 ## Repository contents
 
